@@ -1,0 +1,3 @@
+[submodule "official-code-example"]
+	path = official-code-example
+	url = https://github.com/danilop/AWS_Lambda_in_Action
